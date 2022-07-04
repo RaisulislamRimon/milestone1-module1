@@ -1,0 +1,60 @@
+1-10 Basic HTML: Summary, Mission, Goal
+
+1. what is html?
+        hypertext markup langauage.
+2. what is hyper ? 
+        it is a method like while we click on a link, we go to a new page.      
+3. what is text? 
+        all things that are written on the screen.
+4 what is markup? 
+        angle brackets. paragraph, heading, bold, italic, link, image, list, table, form, etc. are used to mark up the text with a starting tag <> and a closing tag </>.
+
+5. what is langauage?
+        a set of rules that define how to write a document.
+
+process : 
+        (1. create a new file.
+        2. open the file.
+        3. write the html code.
+        4. save the file.
+        5. close the file.)
+1. save your file as something.html
+2. open with vscode for editing.   
+3. hyper text 
+4. markup tag
+
+
+what we learned in this module : 
+5 simple tags - 
+
+        simple tag - (two bodyguards)
+                1. paragraph
+                2. bold 
+                3. strong
+                        bold vs strong 
+                4. italic
+                5. 6 types of heding. h1-h6 
+
+        with attribute - (with extra info )
+                1. anchor tag. attribute is href.
+                2. img tag. attribute is src.
+                3. input tag. attribute is type.
+
+        empty tag - (nothing inside)
+                1. break
+                2. horizontal rule 
+                3. input 
+
+        container tag - (have children)
+                1. div 
+                2. ordered list 
+                3. unordered list 
+                4. form   
+
+        declaration (special) 
+                document type : <!DOCTYPE html>
+
+5 types of tags : 
+        simple, attribute, image, empty container 
+        a few more tags 
+        understanding structure of your html file with meta tag.
